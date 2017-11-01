@@ -9,6 +9,7 @@ public class Smartcar extends Car {
 		Toyota.igear=6;
 		Toyota.highspeed=300;
 		Toyota.Displaycharacterstics();
+		
 	}
 
 }

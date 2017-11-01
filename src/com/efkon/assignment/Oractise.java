@@ -9,6 +9,7 @@ public class Oractise {
 	public void methidOne()
 	{
 		
+		
 		Assert.assertTrue(!false);
 		
 		System.out.println("will i get executed?");

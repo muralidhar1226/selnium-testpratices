@@ -8,6 +8,7 @@ public class Car1 extends Vehicle {
 		return this.numberofseats;
 	}
 	// constructor
+	
 	public Car1(int i_numberofseats)
 	{
 		super();

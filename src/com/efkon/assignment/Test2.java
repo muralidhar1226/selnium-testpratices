@@ -16,6 +16,7 @@ public class Test2 {
 		
 		
 		
+		
 		List<WebElement> ls=driver.findElements(By.name("sex"));
 		ls.get(0).click();
 		

@@ -6,6 +6,7 @@ class Vehicle
 	
 	public void setlicensePlate(String License)
 	{
+		
 		this.licenseplate=License;
 	}
 

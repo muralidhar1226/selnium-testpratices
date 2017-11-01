@@ -14,6 +14,7 @@ public class Car {
 		isteering=1;
 		wheels=4;
 		
+		
 	 }
 	
 	public void Displaycharacterstics()

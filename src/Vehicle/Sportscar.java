@@ -3,6 +3,7 @@ package Vehicle;
 public class Sportscar extends Car1 {
 	double maxspeed=0;
 
+	
 	public Sportscar(int i_numberofseats, double imaxspeed) {
 		super(i_numberofseats);
 		// TODO Auto-generated constructor stub

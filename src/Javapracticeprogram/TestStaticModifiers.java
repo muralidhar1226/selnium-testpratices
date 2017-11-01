@@ -19,3 +19,4 @@ public class TestStaticModifiers extends Car {
 	}
 
 }
+
